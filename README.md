@@ -136,14 +136,15 @@ df['Self_Employed'] = df['Self_Employed'].fillna(df['Self_Employed'].mode()[0])
 
 --
 --
-## Team members
 
-we are a team of three who collaborated on this project
+
+## 👥 Team Members
+
+We are a team of three who collaborated on this project:
 
 - [Ibinayo Blessing Temilade](https://www.linkedin.com/in/blessing-temilade/)
-- [Mercy Erioluwa Adewusi](https://www.linkedin.com/in/mercy-erioluwa-b22b9a28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Stephen Olusegun](https://www.linkedin.com/in/stephenolusegun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
+- [Mercy Erioluwa Adewusi](https://www.linkedin.com/in/mercy-erioluwa-adewusi-b22b9a281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Stephen Olusegun](https://www.linkedin.com/in/stephen0lusegun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 
