@@ -134,12 +134,15 @@ df['Self_Employed'] = df['Self_Employed'].fillna(df['Self_Employed'].mode()[0])
 
 > ⚠️ The model shows a strong bias toward positive predictions (loan approved). Further **tuning or class balancing** is recommended for deployment.
 
+--
+--
+## Team members
 
-# Team Members
-We are a team of three who collaborated on this project:
+we are a team of three who collaborated on this project
 
-Ibinayo Blessing Temilade
-Mercy Erioluwa Adewusi
-Stephen Olusegun
+.[Ibinayo Blessing Temilade](http://www.linkedin.com/in/blessing-temilade/)
+. [Mercy Erioluwa Adewusi](http://www.linkedin.com./in/mercy-erioluwa-b22b9a28?utm_sources=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+. [Stephen Olusegun](http://www.linkedin.com./in/stephen olusegun?utm_sources=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 
